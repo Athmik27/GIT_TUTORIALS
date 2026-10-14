@@ -2,7 +2,7 @@
 
 Git is a **distributed version control system** used to track changes in files and manage source code.
 
-GitHub is a platform used to **store, share, and collaborate on Git repositories**.
+
 
 ---
 
