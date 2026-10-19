@@ -830,7 +830,7 @@ git push orign main
 
 ---
 
-# CHEAT SHEET
+# 43. CHEAT SHEET
 
 ```bash
 git init
