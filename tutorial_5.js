@@ -5,7 +5,6 @@ for (let i = 1; i <= 10; i++) {
 
 
 
-
 let n = 12345;
 let count = 0;
 do {
