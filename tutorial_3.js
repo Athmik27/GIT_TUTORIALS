@@ -7,7 +7,6 @@ if (n % 5 === 0 && n % 11 === 0) {
 
 
 
-
 let marks = 85;
 if (marks >= 90) {
     console.log("Grade A");
