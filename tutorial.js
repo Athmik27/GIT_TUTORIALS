@@ -7,7 +7,6 @@ if (num % 2 === 0) {
 
 
 
-
 let a = 15;
 let b = 25;
 if (a > b) {
