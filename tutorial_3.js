@@ -28,7 +28,6 @@ console.log("Digits =", count);
 
 
 
-
 let a = 10, b = 5;
 let op = "*";
 switch (op) {
@@ -50,11 +49,9 @@ switch (op) {
 
 
 
-
 for (let i = 1; i <= 100; i++) {
     console.log(i);
 }
-
 
 
 
